@@ -7,7 +7,6 @@ const withAnimatedHeader = (WrappedComponent) => {
   return ({ headerName, headerContent, scrollableContentStyle, ...props }) => {
     const scrollY = useRef(new Animated.Value(0)).current;
 
-    // Interpolate header height and opacity based on scroll position
     const headerHeight = scrollY.interpolate({
       inputRange: [0, 100],
       outputRange: [80, 60],
