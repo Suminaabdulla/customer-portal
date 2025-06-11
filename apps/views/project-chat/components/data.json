@@ -1,0 +1,78 @@
+[
+    {
+        "__type": "CRMAdmin_SteeringCommittee+popupdata",
+        "SalesmanUpdates": [
+            {
+                "RevRowId": null,
+                "Overview": "EARLY TO JUDGE",
+                "OptNumber": "0024010056",
+                "Remarks": "quoted and under follow up ",
+                "WinPerc": "20",
+                "UpdatedBy": "12345",
+                "UpdatedDate": "05 Mar 2024",
+                "AdminRemarks": null,
+                "ReferenceNo": null,
+                "FileURL": null,
+                "PTConFormation": null
+            },
+            {
+                "RevRowId": null,
+                "Overview": "EARLY TO JUDGE",
+                "OptNumber": "0024010056",
+                "Remarks": "quoted and under follow up ",
+                "WinPerc": "20",
+                "UpdatedBy": "12345",
+                "UpdatedDate": "18 Mar 2024",
+                "AdminRemarks": null,
+                "ReferenceNo": null,
+                "FileURL": null,
+                "PTConFormation": null
+            },
+        ],
+        "MarketingUpdates": [
+            {
+                "RevRowId": null,
+                "Overview": "TO BE AWARDED",
+                "OptNumber": null,
+                "Remarks": "tender stage ",
+                "WinPerc": null,
+                "UpdatedBy": "Omar Hasan",
+                "UpdatedDate": "13 Feb 2023",
+                "AdminRemarks": null,
+                "ReferenceNo": null,
+                "FileURL": null,
+                "PTConFormation": null
+            },
+            {
+                "RevRowId": null,
+                "Overview": "TO BE AWARDED",
+                "OptNumber": null,
+                "Remarks": "tender stage ",
+                "WinPerc": null,
+                "UpdatedBy": "Omar Hasan",
+                "UpdatedDate": "21 Mar 2023",
+                "AdminRemarks": null,
+                "ReferenceNo": null,
+                "FileURL": null,
+                "PTConFormation": null
+            },
+            {
+                "RevRowId": null,
+                "Overview": "TO BE AWARDED",
+                "OptNumber": null,
+                "Remarks": "tender stage ",
+                "WinPerc": null,
+                "UpdatedBy": "Omar Hasan",
+                "UpdatedDate": "24 Apr 2023",
+                "AdminRemarks": null,
+                "ReferenceNo": null,
+                "FileURL": null,
+                "PTConFormation": null
+            },
+          
+        ],
+        "PTOverView": null,
+        "Adminremarks": null,
+        "DeveloperUpdate": null
+    }
+]
